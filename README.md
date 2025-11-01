@@ -1,16 +1,22 @@
-## Hi there 👋
+## 嗨 伙计们 👋
 
-<!--
-**zekeluvv/zekeluvv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 引子
 
-Here are some ideas to get you started:
+现在的Zeke回想起，那个三年前悠久的下午。
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+不会想到自己的未来的生活会如此精彩，无论是情感的丰富，学习能力的充分提升，让我有了充分感受这个世界的能力。
+
+这是一个小小的，平凡的，个人成长之路。抑郁过，失恋过，也失去了重要的人，都没有阻止我对真理的追寻
+
+## 自我介绍
+
+这里是zeke，目前在北京某211读测控专业。🤪
+
+这是一个关于自我成长，情感，建模，代码的个人项目博客。由于还没有学会搭建网站 ，后面会慢慢学习
+
+1、证明自己的时代终结了，剩下的只有真正的爱
+
+2、目前在学习blender，blame个人作品。加班加点中。。。🥳
+
+3、 熟悉 C、python
+
